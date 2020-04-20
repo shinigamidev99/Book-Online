@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 15, 2019, 8:27:35 PM
+    Author     : Administrator
+*/
+
+body{
+    margin-top: 10%;
+    background-color: #5a8aeb;
+}
+
+.firstshadow {
+    color: blueviolet;
+    font-size: 30pt;
+    text-shadow: 5px 2px 4px grey;
+    font-weight: bold;
+}
+
+.seconshadow {
+    color: orangered;
+    font-size: 15pt;
+    text-shadow: 1px 1px 1px grey;
+    font-weight: bold;
+}
+
+.fa {
+    cursor: pointer;
+}
+
+.fa.active {
+    color: dodgerblue;
+}
+
+.padding-zero{
+    padding: 0;
+}
+
+.eye-div{
+    background: red;
+}
